@@ -2,4 +2,6 @@ Coloque algum texto no arquivo.
 
 Estou escrevendo na terceira linha.
 
-Vou para a quinta linha
+Vou para a quinta linha.
+
+Alterando para testar o global como sendo o
